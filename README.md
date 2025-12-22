@@ -19,8 +19,11 @@ The Working Hour Calculator is a tool designed to help users track their weekly 
 
 
 ## Screenshots
+- Old version-
 ![preview](https://github.com/user-attachments/assets/1f438b8a-00fe-4a3f-ad27-9ad2fb5ab153)
 
+- New version-
+- ![preview](https://github.com/user-attachments/assets/066d55dd-ea15-4977-a7d0-3ec451d277f5)
 
 ## Installation
 - Clone the repository.
